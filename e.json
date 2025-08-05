@@ -1,0 +1,14 @@
+{
+ "name":"SPOKEN ENGLISH",
+ "short_name":"SPOKEN ENGLISH",
+ "display":"fullscreen",
+ "start_url":"./e.html",
+ "background_color":"#FFFFFF",
+ "theme_color":"#FFFFFF",
+ "icons": [
+          { "src":"e.png",
+           "sizes":"192x192",
+           "type":"image/png"
+         }
+ ]
+}
